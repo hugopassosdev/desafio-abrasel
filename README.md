@@ -47,7 +47,6 @@ Seu desafio: **processar, analisar e apresentar** os dados para apoiar decisões
 - Houve crescimento ou declínio no número de empresas abertas nos últimos anos? ✅
 - Quais são os principais motivos para empresas estarem **baixadas** ou **inativas**? ✅
 - Quais municípios possuem **baixa presença** de estabelecimentos do setor? ✅
-- Como manter os dados sempre atualizados? ✅
 
 ---
 
@@ -82,6 +81,12 @@ gh  repo  clone  hugopassosdev/desafio-abrasel.git
 ## 🌐 Status do projeto
 
 ✅ Finalizado
+
+---
+
+## 📊 Arquivo PBIX do Projeto
+
+- `desafio_abrasel` → disponível em [Google Drive](https://drive.google.com/file/d/1k7sgLOa8tyDNpWv9s4t2B9SDjUP3MkUB/view?usp=sharing)  
 
 ---
 
